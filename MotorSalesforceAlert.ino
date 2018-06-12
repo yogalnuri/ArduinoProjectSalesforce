@@ -1,7 +1,3 @@
-#include <WiFi.h>
-#include <WiFiClient.h>
-#include <WiFiServer.h>
-
 #include <SoftwareSerial.h>
 
 /* Sweep
